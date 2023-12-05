@@ -47,7 +47,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 Shout out to the teaching team at EdX and fellow students for help and collaboration.
 
-Tutorials and base materials from  [ 01.4: Code Refactor Challenge] (https://bootcampspot.instructure.com/courses/5651)
+Tutorials and base materials from  [01.4: Code Refactor Challenge](https://bootcampspot.instructure.com/courses/5651)
 
 
 ## License
