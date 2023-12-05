@@ -30,13 +30,12 @@ No particular installation requirements. Web page can be viewed using Chrome, Fi
 
 ## Usage 
 
-This site can be accessed on GitPages [HERE]https://mandyjmiller.github.io/04_CODE_REFACTOR_LESSON/
+This site can be accessed on GitPages [HERE](https://mandyjmiller.github.io/04_code_refactor_lesson)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshot of the site can be seen here:
 
-```md
 ![screenshot](assets/images/screenshot.png)
-```
+
 
 
 ## Credits
