@@ -34,8 +34,9 @@ This site can be accessed on GitPages [HERE]https://mandyjmiller.github.io/04_CO
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![screenshot](challenge\starter\assets\images\screenshot.png)
-
+```md
+![screenshot](assets/images/screenshot.png)
+```
 
 
 ## Credits
