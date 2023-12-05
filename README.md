@@ -45,11 +45,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Shout out to the teaching team at EdX and fellow students for help and collaboration.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Tutorials and base materials from  [ 01.4: Code Refactor Challenge] (https://bootcampspot.instructure.com/courses/5651)
 
 
 ## License
