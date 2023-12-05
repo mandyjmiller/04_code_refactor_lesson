@@ -34,7 +34,7 @@ This site can be accessed on GitPages [HERE](https://mandyjmiller.github.io/04_c
 
 Screenshot of the site can be seen here:
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](challenge/starter/assets/images/screenshot.png)
 
 
 
