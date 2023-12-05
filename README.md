@@ -30,13 +30,12 @@ No particular installation requirements. Web page can be viewed using Chrome, Fi
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+This site can be accessed on GitPages [HERE]https://mandyjmiller.github.io/04_CODE_REFACTOR_LESSON/
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-```md
-![screenshot](assets/images/screenshot.png)
-```
+![screenshot](challenge\starter\assets\images\screenshot.png)
+
 
 
 ## Credits
