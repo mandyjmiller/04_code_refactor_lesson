@@ -8,7 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
-<!-- Fixed header position as it contains nav which should improve SEO as well as accessibility-->
+/* fixed header position as visible nav will enhance accessibility and SEO */
+
+
 .header {
     position: fixed;
     width: 100%;
@@ -26,8 +28,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-<!-- Updated Font family, Calibri not in brackets-->
 
+/* change to font family to add quotes aroung Calibri */
 
 .header div {
     padding-top: 15px;
@@ -55,7 +57,7 @@ p {
     font-size: 16px;
 }
 
-<!-- Attempted to move bg image into HTML in order to add alt tags for accessibility, but decided to leave here and add a dummy 1*1 pixel image in HMTL-->
+/* attempted to add alt to bg, but not supported so I added dummy 1x1 pixel image to hero div and applied alt there*/
 .hero {
     height: 800px;
     width: 100%;
